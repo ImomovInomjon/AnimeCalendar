@@ -1,10 +1,7 @@
 #
 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?logo=googleplay)](https://play.google.com/store/apps/details?id=io.animecalendar.anime_calendar)
-📲 Download on Google Play:  https://play.google.com/store/apps/details?id=io.animecalendar.anime_calendar
 
-🇺🇿 
-AnimeCalendar
-...
+📲 Download on Google Play: https://play.google.com/store/apps/details?id=io.animecalendar.anime_calendar
 
 🇺🇿 
 AnimeCalendar
